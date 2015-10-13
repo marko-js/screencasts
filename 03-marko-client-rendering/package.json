@@ -1,0 +1,17 @@
+{
+  "name": "marko-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lasso": "^1.11.11",
+    "lasso-marko": "^2.0.4",
+    "marko": "^2.7.25"
+  }
+}
